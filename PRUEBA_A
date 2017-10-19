@@ -6,6 +6,7 @@
  
 <script type="text/javascript">
   alert("Hola Mundo!");
+   alert("Hola MundoA!");
 </script>
 </head>
  
